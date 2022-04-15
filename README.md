@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; I just launched my newest course: Web Accessibility on [Skillshare][skillshare] and [Udemy][udemy]!
 - 🌱 &nbsp; I’m currently learning NextJS / Typescript / Storybook 😃
-- 🤞🏾 &nbsp; 2021 Goals: Launch a YouTube channel all about web dev
+- 🤞🏾 &nbsp; 2022 Goals: Work more on my print on demand business [Shirtlify on Redbubble](http://shirtlify.redbubble.com/)
 - 🙏🏾 &nbsp; Good Causes: I'm co-founder of the charity [Beat It Cancer][beatitcancer]
 - 🖌️ &nbsp; Other Projects: I make NFTs on [Rarible][rarible]
 - 🥁 &nbsp; Fun Fact: I'm learning to play the drums
