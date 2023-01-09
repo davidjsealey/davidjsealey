@@ -63,7 +63,8 @@
 ### Fun:
 
 <br />
-
+    
+[<img align="left" style="overflow: auto; margin-right: 10px;" alt="davidjsealey | Xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />][xbox]    
 [<img align="left" style="overflow: auto; margin-right: 10px;" alt="Sealey_Boy | Playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />][playstation]
 [<img align="left" style="margin-right: 10px;" alt="David J Sealey | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
