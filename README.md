@@ -6,7 +6,7 @@
 
 <br />
 
-- 🔭 &nbsp; I just launched my newest course: Web Accessibility on [Skillshare][skillshare] and [Udemy][udemy]!
+- 🔭 &nbsp; I just launched my newest course: Modern React Fundamentals on [Skillshare][skillshare] and [Udemy][udemy]!
 - 🌱 &nbsp; I’m currently learning NextJS / Typescript / Storybook 😃
 - 🤞🏾 &nbsp; 2023 Goals: Work more on my print on demand business [Shirtlify on Redbubble](http://shirtlify.redbubble.com/)
 - 🙏🏾 &nbsp; Good Causes: I'm co-founder of the charity [Beat It Cancer][beatitcancer]
@@ -78,6 +78,7 @@
 
 ### 👨🏽‍🏫 &nbsp; Latest Udemy Courses
 
+- [Modern React Fundamentals](https://www.udemy.com/course/modern-react-fundamentals-build-a-quote-generator/?referralCode=ED12BA4233D2A3A3E814)
 - [Web Accessibility: Learn the best practises](https://www.udemy.com/course/web-accessibility-learn-the-best-practises/?referralCode=CE25A463F2AA2D2B61C3)
 - [CSS Animations: The Complete Guide](https://www.udemy.com/course/css-animations-the-complete-guide/?referralCode=044B8627F5DEC06B884C)
 - [Chrome Extensions: Beginners Guide to Building & Publishing](https://www.udemy.com/course/chrome-extensions-beginners-guide/?referralCode=615339193017EC9CDBBE)
@@ -92,6 +93,7 @@
 
 ### 👨🏽‍🏫 &nbsp; Latest Skillshare Courses
 
+- [Modern React Fundamentals](https://skl.sh/3RoKoUr)
 - [Web Accessibility: Learn the best practises to build all-inclusive websites](https://skl.sh/3rLltyt)
 - [CSS Animation Fundamentals: Master Transitions and Keyframes](https://skl.sh/3aDTxHa)
 
@@ -117,13 +119,14 @@
 
 ---
 
-[skillshare]: https://skl.sh/3rLltyt
-[udemy]: https://www.udemy.com/course/web-accessibility-learn-the-best-practises/?referralCode=CE25A463F2AA2D2B61C3
+[skillshare]: https://skl.sh/3RoKoUr
+[udemy]: https://www.udemy.com/course/modern-react-fundamentals-build-a-quote-generator/?referralCode=ED12BA4233D2A3A3E814
 [twitter]: https://twitter.com/davidjsealey
 [instagram]: https://instagram.com/thesealcoder
 [linkedin]: https://linkedin.com/in/davidjsealey
 [rarible]: https://rarible.com/thesealcoder?tab=collectibles
 [codepen]: https://codepen.io/davidjsealey
 [playstation]: https://psnprofiles.com/Sealey_Boy
+[xbox]: https://account.xbox.com/en-us/profile?gamertag=davidjsealey
 [spotify]: https://open.spotify.com/user/dsealey?si=3xlJ15__T6Wk_Hmb2mJwgw
 [beatitcancer]: https://beatitcancer.org.uk/
