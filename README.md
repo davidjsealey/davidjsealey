@@ -95,7 +95,6 @@
 
 ### 👨🏽‍🏫 &nbsp; Latest Skillshare Courses
 
-- [Next.js: The Complete Beginner's Guide](https://skl.sh/45Oit8Q)
 - [Modern React Fundamentals](https://skl.sh/3RoKoUr)
 - [Web Accessibility: Learn the best practices to build all-inclusive websites](https://skl.sh/3rLltyt)
 - [CSS Animation Fundamentals: Master Transitions and Keyframes](https://skl.sh/3aDTxHa)
