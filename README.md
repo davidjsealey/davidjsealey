@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; I just launched my newest course: Next.js: The Complete Beginner's Guide on [Udemy][udemy]!
 - 🌱 &nbsp; I’m currently learning NextJS / Typescript / Storybook 😃
-- 🤞🏾 &nbsp; 2024 Goals: Work more on my print-on-demand business [Shirtlify on Redbubble]([http://shirtlify.redbubble.com/](https://www.redbubble.com/people/shirtlify/shop?artistUserName=Shirtlify&sortOrder=recent))
+- 🤞🏾 &nbsp; 2024 Goals: Work more on my print-on-demand business [Shirtlify on Redbubble][redbubble]
 - 🙏🏾 &nbsp; Good Causes: I'm co-founder of the charity [Beat It Cancer][beatitcancer]
 - 🖌️ &nbsp; Other Projects: I make NFTs on [Rarible][rarible]
 - 🥁 &nbsp; Fun Fact: I'm learning to play the drums
@@ -123,6 +123,7 @@
 
 [skillshare]: https://skl.sh/45Oit8Q
 [udemy]: https://www.udemy.com/course/4958498/?referralCode=13A7EE33F1FA2FC602D2
+[redbubble]: https://www.redbubble.com/people/shirtlify/shop?artistUserName=Shirtlify&sortOrder=recent
 [twitter]: https://twitter.com/davidjsealey
 [instagram]: https://instagram.com/thesealcoder
 [linkedin]: https://linkedin.com/in/davidjsealey
